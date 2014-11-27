@@ -148,6 +148,8 @@
     <Content Include="img\team\2.jpg" />
     <Content Include="img\team\3.jpg" />
     <Content Include="img\team\4.jpg" />
+    <Content Include="img\team\nag.png" />
+    <Content Include="img\team\pree.png" />
     <Content Include="img\works\1.jpg" />
     <Content Include="img\works\2.jpg" />
     <Content Include="img\works\3.jpg" />
@@ -223,6 +225,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Home\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\alphacompany.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
